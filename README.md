@@ -9,7 +9,6 @@
   
 📫 How to reach me: [Telegram] or [Mail]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wmorgue&show_icons=true&theme=dark&count_private=trueh&hide_title=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmorgue&langs_count=6&hide=css,html,javascript&layout=compact)
   
 </div>
