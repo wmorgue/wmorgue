@@ -1,4 +1,5 @@
 iOS Developer with a background in DevOps.
+
 I'm looking for a new full-time, full-remote iOS developer position.
 I am primarily a `SwiftUI` person, but with 4+ years of other knowledge & languages including `DevOps`.
 
