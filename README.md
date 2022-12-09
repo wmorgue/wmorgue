@@ -6,6 +6,7 @@ I am primarily a `SwiftUI` person, but with 4+ years of other knowledge & langua
 My open source app:
 
 1. [Onflow status](https://github.com/wmorgue/OnflowStatus)
+2. [DubDubMap](https://github.com/wmorgue/DubDubMap)
 
 
 - [x] I'm running the [vrm0rgu3 telegram channel](https://t.me/vrm0rgu3) about  SwiftUI development.
