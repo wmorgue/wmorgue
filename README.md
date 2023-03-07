@@ -3,7 +3,7 @@ iOS Developer with a background in DevOps.
 I am seeking a new full-time, fully remote iOS developer position.
 My primary expertise is in `SwiftUI`, but I also have over four years of experience in a variety of other languages and technologies, including `DevOps`.
 
-My app:
+My app's:
 
 1. [Onflow status](https://github.com/wmorgue/OnflowStatus)
 2. [DubDubMap](https://github.com/wmorgue/DubDubMap)
