@@ -9,6 +9,12 @@ My app's:
 2. [DubDubMap](https://github.com/wmorgue/DubDubMap)
 3. [MockerPie](https://apple.co/3KVRXSU)
 
+Notes (mostly in russian):
+ - A [quick note about](https://t.me/vrm0rgu3/168?comment=238) `Structured Concurrency`.
+ - Note about [@ marker protocol Sendable { }](https://t.me/vrm0rgu3/169)
+ - [Swift 5.8 release note](https://gist.github.com/wmorgue/f095c4577e3f21ada735b1962328cfc6)
+
+---
 
 - [x] I am the owner and operator of a [vrm0rgu3 telegram channel](https://t.me/vrm0rgu3) focused on  SwiftUI development.
 - [x] You can reach me: [Telegram](https://t.me/maybequantum), [Linkedin](https://www.linkedin.com/in/nikita-rossik-479120238/), [Email](maybequantumbit@icloud.com).
