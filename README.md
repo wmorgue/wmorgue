@@ -5,10 +5,10 @@ My primary expertise is in `SwiftUI`, but I also have over four years of experie
 
 My app's:
 
-1. [Imagine Diffusion](https://apple.co/3MheCs5)
-2. [MockerPie](https://apple.co/3KVRXSU)
-3. [Onflow status](https://github.com/wmorgue/OnflowStatus)
-4. [DubDubMap](https://github.com/wmorgue/DubDubMap)
+1. [Imagine Diffusion](https://apple.co/3MheCs5) `macOS`
+2. [MockerPie](https://apple.co/3KVRXSU) `iPadOS`
+3. [Onflow status](https://github.com/wmorgue/OnflowStatus) `iOS`
+4. [DubDubMap](https://github.com/wmorgue/DubDubMap) `iOS`
 
 Notes (mostly in russian):
  - A [quick note about](https://t.me/vrm0rgu3/168?comment=238) `Structured Concurrency`.
