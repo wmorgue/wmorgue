@@ -13,6 +13,7 @@ My app's:
 Notes (mostly in russian):
  - A [quick note about](https://t.me/vrm0rgu3/168?comment=238) `Structured Concurrency`.
  - Note about [@ marker protocol Sendable { }](https://t.me/vrm0rgu3/169)
+ - [Swift 5.9 release note](https://github.com/wmorgue/swiftui_interview_qa/blob/main/src/Swift5.9.md)
  - [Swift 5.8 release note](https://gist.github.com/wmorgue/f095c4577e3f21ada735b1962328cfc6)
 
 ---
