@@ -4,7 +4,7 @@ I am seeking a new full-time, fully remote iOS developer position.
 My primary expertise is in `SwiftUI`, but I also have over four years of experience in a variety of other languages and technologies, including `DevOps`.
 -->
 
-📱My app's:
+📱My own app's:
 
 1. [Imagine Diffusion](https://apple.co/3MheCs5) `macOS`
 2. [MockerPie](https://apple.co/3KVRXSU) `iPadOS`
@@ -19,7 +19,6 @@ My primary expertise is in `SwiftUI`, but I also have over four years of experie
 
 ---
 
-💬 I am the owner and operator of a [vrm0rgu3 telegram channel](https://t.me/vrm0rgu3) focused on  SwiftUI development.\
 📬 You can reach me: [Telegram](https://t.me/maybequantum), [Linkedin](https://www.linkedin.com/in/nikita-rossik-479120238/), [Email](maybequantumbit@icloud.com).
 
 <!--
