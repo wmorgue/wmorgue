@@ -11,13 +11,6 @@ My primary expertise is in `SwiftUI`, but I also have over four years of experie
 3. [Onflow status](https://github.com/wmorgue/OnflowStatus) `iOS`
 4. [DubDubMap](https://github.com/wmorgue/DubDubMap) `iOS`
 
-📝 Notes (mostly in russian):
- - A quick note about `Structured Concurrency`.
- - Note about @ marker protocol Sendable { }
- - [Swift 5.9 release note](https://github.com/wmorgue/swiftui_interview_qa/blob/main/src/Swift5.9.md)
- - [Swift 5.8 release note](https://gist.github.com/wmorgue/f095c4577e3f21ada735b1962328cfc6)
-
----
 
 📬 You can reach me: [Linkedin](https://www.linkedin.com/in/nikita-rossik-479120238/), [Email](maybequantumbit@icloud.com).
 
