@@ -1,7 +1,10 @@
 6+ year of experience | SwiftUI 🚀 <br>
 iOS Developer with a background in DevOps.
 
-Читать книгу [Structured Concurrency не магия](https://proekt-swiftui.github.io/sc-book/).
+📕 My book:
+- [Structured Concurrency не магия](https://proekt-swiftui.github.io/sc-book/) (in Russian).
+- Современное тестирование (WIP)
+
 
 <!---
 I am seeking a new full-time, fully remote iOS developer position.
