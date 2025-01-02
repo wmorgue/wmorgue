@@ -1,4 +1,4 @@
-6+ year of experience | SwiftUI 🚀
+6+ year of experience | SwiftUI 🚀 <br>
 iOS Developer with a background in DevOps.
 
 Читать книгу [Structured Concurrency не магия](https://proekt-swiftui.github.io/sc-book/).
