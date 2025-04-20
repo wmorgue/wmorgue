@@ -3,7 +3,7 @@ iOS Developer with a background in DevOps.
 
 📕 My book:
 - [Structured Concurrency не магия](https://proekt-swiftui.github.io/sc-book/) (in Russian).
-- [Современное тестирование](https://www.linkedin.com/posts/nick-rossik_ios-book-swift-activity-7302559685088342016-qgzb) (открыт сбор на LinkedIn)
+- [Современное тестирование](https://proekt-swiftui.github.io/modern-testing-book/) (in Russian).
 
 
 <!---
